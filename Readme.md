@@ -4,7 +4,6 @@
 <p align="center">
 I build AI-powered and security-first applications using cloud and modern backend tools  
 Currently working on RAG systems, secure architectures, and scalable deployments  
-Projects: CipherMind • StrataIQ • Security-based AI tools
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
