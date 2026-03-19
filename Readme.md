@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dharshini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Security-Focused AI Developer | Cloud & RAG Systems Builder</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+I build AI-powered and security-first applications using cloud and modern backend tools  
+Currently working on RAG systems, secure architectures, and scalable deployments  
+Projects: CipherMind • StrataIQ • Security-based AI tools
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
