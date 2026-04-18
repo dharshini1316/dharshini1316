@@ -187,7 +187,7 @@ achievement badges
 ![google](https://img.shields.io/badge/20%2B-Skill%20Boost%20Badges-2d2b55?style=for-the-badge&logo=google&logoColor=a8dadc)
 
 **Google Cloud**
-20+ Skill Boost
+Skill Boost
 badges earned
 
 </td>
