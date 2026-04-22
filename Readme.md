@@ -11,8 +11,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2200&pause=900&color=DDB6FF&center=true&vCenter=true&width=750&lines=👩‍💻+AI+Engineer+%7C+Security+%7C+Cloud+Architecture;🔐+Zero-Trust+AI+%7C+RAG+Pipelines+%7C+Adversarial+ML;☁️+AWS+%7C+GCP+%7C+Terraform+%7C+DevSecOps;🧠+Building+systems+that+think%2C+defend+%26+evolve;🚀+Turning+complex+problems+into+intelligent+solutions" />
-
 <br/><br/>
 
 <a href="https://github.com/dharshini1316">
