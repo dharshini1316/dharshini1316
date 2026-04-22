@@ -10,9 +10,6 @@
 </div>
 
 <div align="center">
-
-<br/><br/>
-
 <a href="https://github.com/dharshini1316">
 <img src="https://komarev.com/ghpvc/?username=dharshini1316&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=13003a" />
 </a>
